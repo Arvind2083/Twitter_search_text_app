@@ -1,0 +1,931 @@
+2017-06-07 23:11:56 INFO  statFile:163 - Twitter response Statistics in 1 sec : 
+
+2017-06-07 23:11:56 INFO  statFile:166 -  Count of Messages :0
+2017-06-07 23:11:56 INFO  statFile:175 - End of Twitter Statistics in 1 sec : 
+
+2017-06-07 23:11:57 INFO  statFile:163 - Twitter response Statistics in 2 sec : 
+
+2017-06-07 23:11:57 INFO  statFile:170 - User Id :418087633 Count of Messages Retrived:1
+2017-06-07 23:11:57 INFO  statFile:170 - User Id :2426090648 Count of Messages Retrived:1
+2017-06-07 23:11:57 INFO  statFile:175 - End of Twitter Statistics in 2 sec : 
+
+2017-06-07 23:11:58 INFO  statFile:163 - Twitter response Statistics in 3 sec : 
+
+2017-06-07 23:11:58 INFO  statFile:170 - User Id :418087633 Count of Messages Retrived:1
+2017-06-07 23:11:58 INFO  statFile:170 - User Id :422258535 Count of Messages Retrived:1
+2017-06-07 23:11:58 INFO  statFile:170 - User Id :2426090648 Count of Messages Retrived:1
+2017-06-07 23:11:58 INFO  statFile:175 - End of Twitter Statistics in 3 sec : 
+
+2017-06-07 23:11:59 INFO  statFile:163 - Twitter response Statistics in 4 sec : 
+
+2017-06-07 23:11:59 INFO  statFile:170 - User Id :418087633 Count of Messages Retrived:1
+2017-06-07 23:11:59 INFO  statFile:170 - User Id :422258535 Count of Messages Retrived:1
+2017-06-07 23:11:59 INFO  statFile:170 - User Id :453365444 Count of Messages Retrived:1
+2017-06-07 23:11:59 INFO  statFile:170 - User Id :2426090648 Count of Messages Retrived:1
+2017-06-07 23:11:59 INFO  statFile:170 - User Id :845483840206364672 Count of Messages Retrived:1
+2017-06-07 23:11:59 INFO  statFile:175 - End of Twitter Statistics in 4 sec : 
+
+2017-06-07 23:12:00 INFO  statFile:163 - Twitter response Statistics in 5 sec : 
+
+2017-06-07 23:12:00 INFO  statFile:170 - User Id :418087633 Count of Messages Retrived:1
+2017-06-07 23:12:00 INFO  statFile:170 - User Id :422258535 Count of Messages Retrived:1
+2017-06-07 23:12:00 INFO  statFile:170 - User Id :453365444 Count of Messages Retrived:1
+2017-06-07 23:12:00 INFO  statFile:170 - User Id :794323963 Count of Messages Retrived:1
+2017-06-07 23:12:00 INFO  statFile:170 - User Id :2426090648 Count of Messages Retrived:2
+2017-06-07 23:12:00 INFO  statFile:170 - User Id :845483840206364672 Count of Messages Retrived:1
+2017-06-07 23:12:00 INFO  statFile:175 - End of Twitter Statistics in 5 sec : 
+
+2017-06-07 23:12:01 INFO  statFile:163 - Twitter response Statistics in 6 sec : 
+
+2017-06-07 23:12:01 INFO  statFile:170 - User Id :180112098 Count of Messages Retrived:1
+2017-06-07 23:12:01 INFO  statFile:170 - User Id :212375312 Count of Messages Retrived:1
+2017-06-07 23:12:01 INFO  statFile:170 - User Id :418087633 Count of Messages Retrived:1
+2017-06-07 23:12:01 INFO  statFile:170 - User Id :422258535 Count of Messages Retrived:1
+2017-06-07 23:12:01 INFO  statFile:170 - User Id :453365444 Count of Messages Retrived:1
+2017-06-07 23:12:01 INFO  statFile:170 - User Id :794323963 Count of Messages Retrived:1
+2017-06-07 23:12:01 INFO  statFile:170 - User Id :2426090648 Count of Messages Retrived:2
+2017-06-07 23:12:01 INFO  statFile:170 - User Id :3458591554 Count of Messages Retrived:1
+2017-06-07 23:12:01 INFO  statFile:170 - User Id :782560840989962240 Count of Messages Retrived:1
+2017-06-07 23:12:01 INFO  statFile:170 - User Id :845483840206364672 Count of Messages Retrived:1
+2017-06-07 23:12:01 INFO  statFile:175 - End of Twitter Statistics in 6 sec : 
+
+2017-06-07 23:12:02 INFO  statFile:163 - Twitter response Statistics in 7 sec : 
+
+2017-06-07 23:12:02 INFO  statFile:170 - User Id :180112098 Count of Messages Retrived:1
+2017-06-07 23:12:02 INFO  statFile:170 - User Id :212375312 Count of Messages Retrived:1
+2017-06-07 23:12:02 INFO  statFile:170 - User Id :418087633 Count of Messages Retrived:1
+2017-06-07 23:12:02 INFO  statFile:170 - User Id :422258535 Count of Messages Retrived:1
+2017-06-07 23:12:02 INFO  statFile:170 - User Id :453365444 Count of Messages Retrived:1
+2017-06-07 23:12:02 INFO  statFile:170 - User Id :794323963 Count of Messages Retrived:1
+2017-06-07 23:12:02 INFO  statFile:170 - User Id :2426090648 Count of Messages Retrived:3
+2017-06-07 23:12:02 INFO  statFile:170 - User Id :3458591554 Count of Messages Retrived:1
+2017-06-07 23:12:02 INFO  statFile:170 - User Id :782560840989962240 Count of Messages Retrived:1
+2017-06-07 23:12:02 INFO  statFile:170 - User Id :845483840206364672 Count of Messages Retrived:1
+2017-06-07 23:12:02 INFO  statFile:175 - End of Twitter Statistics in 7 sec : 
+
+2017-06-07 23:12:03 INFO  statFile:163 - Twitter response Statistics in 8 sec : 
+
+2017-06-07 23:12:03 INFO  statFile:170 - User Id :180112098 Count of Messages Retrived:1
+2017-06-07 23:12:03 INFO  statFile:170 - User Id :212375312 Count of Messages Retrived:1
+2017-06-07 23:12:03 INFO  statFile:170 - User Id :418087633 Count of Messages Retrived:1
+2017-06-07 23:12:03 INFO  statFile:170 - User Id :422258535 Count of Messages Retrived:1
+2017-06-07 23:12:03 INFO  statFile:170 - User Id :453365444 Count of Messages Retrived:1
+2017-06-07 23:12:03 INFO  statFile:170 - User Id :794323963 Count of Messages Retrived:1
+2017-06-07 23:12:03 INFO  statFile:170 - User Id :2426090648 Count of Messages Retrived:3
+2017-06-07 23:12:03 INFO  statFile:170 - User Id :3458591554 Count of Messages Retrived:1
+2017-06-07 23:12:03 INFO  statFile:170 - User Id :782560840989962240 Count of Messages Retrived:1
+2017-06-07 23:12:03 INFO  statFile:170 - User Id :845483840206364672 Count of Messages Retrived:1
+2017-06-07 23:12:03 INFO  statFile:175 - End of Twitter Statistics in 8 sec : 
+
+2017-06-07 23:12:04 INFO  statFile:163 - Twitter response Statistics in 9 sec : 
+
+2017-06-07 23:12:04 INFO  statFile:170 - User Id :180112098 Count of Messages Retrived:1
+2017-06-07 23:12:04 INFO  statFile:170 - User Id :212375312 Count of Messages Retrived:1
+2017-06-07 23:12:04 INFO  statFile:170 - User Id :306388398 Count of Messages Retrived:1
+2017-06-07 23:12:04 INFO  statFile:170 - User Id :418087633 Count of Messages Retrived:1
+2017-06-07 23:12:04 INFO  statFile:170 - User Id :422258535 Count of Messages Retrived:1
+2017-06-07 23:12:04 INFO  statFile:170 - User Id :453365444 Count of Messages Retrived:1
+2017-06-07 23:12:04 INFO  statFile:170 - User Id :794323963 Count of Messages Retrived:1
+2017-06-07 23:12:04 INFO  statFile:170 - User Id :2426090648 Count of Messages Retrived:4
+2017-06-07 23:12:04 INFO  statFile:170 - User Id :3458591554 Count of Messages Retrived:1
+2017-06-07 23:12:04 INFO  statFile:170 - User Id :782560840989962240 Count of Messages Retrived:1
+2017-06-07 23:12:04 INFO  statFile:170 - User Id :845483840206364672 Count of Messages Retrived:1
+2017-06-07 23:12:04 INFO  statFile:170 - User Id :872158135548497921 Count of Messages Retrived:1
+2017-06-07 23:12:04 INFO  statFile:175 - End of Twitter Statistics in 9 sec : 
+
+2017-06-07 23:12:05 INFO  statFile:163 - Twitter response Statistics in 10 sec : 
+
+2017-06-07 23:12:05 INFO  statFile:170 - User Id :180112098 Count of Messages Retrived:1
+2017-06-07 23:12:05 INFO  statFile:170 - User Id :212375312 Count of Messages Retrived:1
+2017-06-07 23:12:05 INFO  statFile:170 - User Id :306388398 Count of Messages Retrived:1
+2017-06-07 23:12:05 INFO  statFile:170 - User Id :418087633 Count of Messages Retrived:1
+2017-06-07 23:12:05 INFO  statFile:170 - User Id :422258535 Count of Messages Retrived:1
+2017-06-07 23:12:05 INFO  statFile:170 - User Id :453365444 Count of Messages Retrived:1
+2017-06-07 23:12:05 INFO  statFile:170 - User Id :794323963 Count of Messages Retrived:1
+2017-06-07 23:12:05 INFO  statFile:170 - User Id :2426090648 Count of Messages Retrived:4
+2017-06-07 23:12:05 INFO  statFile:170 - User Id :2513165156 Count of Messages Retrived:1
+2017-06-07 23:12:05 INFO  statFile:170 - User Id :3458591554 Count of Messages Retrived:1
+2017-06-07 23:12:05 INFO  statFile:170 - User Id :4900146329 Count of Messages Retrived:1
+2017-06-07 23:12:05 INFO  statFile:170 - User Id :782560840989962240 Count of Messages Retrived:1
+2017-06-07 23:12:05 INFO  statFile:170 - User Id :845483840206364672 Count of Messages Retrived:1
+2017-06-07 23:12:05 INFO  statFile:170 - User Id :872158135548497921 Count of Messages Retrived:1
+2017-06-07 23:12:05 INFO  statFile:175 - End of Twitter Statistics in 10 sec : 
+
+2017-06-07 23:12:06 INFO  statFile:163 - Twitter response Statistics in 11 sec : 
+
+2017-06-07 23:12:06 INFO  statFile:170 - User Id :180112098 Count of Messages Retrived:1
+2017-06-07 23:12:06 INFO  statFile:170 - User Id :212375312 Count of Messages Retrived:1
+2017-06-07 23:12:06 INFO  statFile:170 - User Id :306388398 Count of Messages Retrived:1
+2017-06-07 23:12:06 INFO  statFile:170 - User Id :418087633 Count of Messages Retrived:1
+2017-06-07 23:12:06 INFO  statFile:170 - User Id :422258535 Count of Messages Retrived:1
+2017-06-07 23:12:06 INFO  statFile:170 - User Id :453365444 Count of Messages Retrived:1
+2017-06-07 23:12:06 INFO  statFile:170 - User Id :794323963 Count of Messages Retrived:1
+2017-06-07 23:12:06 INFO  statFile:170 - User Id :2426090648 Count of Messages Retrived:4
+2017-06-07 23:12:06 INFO  statFile:170 - User Id :2513165156 Count of Messages Retrived:1
+2017-06-07 23:12:06 INFO  statFile:170 - User Id :3458591554 Count of Messages Retrived:1
+2017-06-07 23:12:06 INFO  statFile:170 - User Id :4900146329 Count of Messages Retrived:1
+2017-06-07 23:12:06 INFO  statFile:170 - User Id :782560840989962240 Count of Messages Retrived:1
+2017-06-07 23:12:06 INFO  statFile:170 - User Id :845483840206364672 Count of Messages Retrived:1
+2017-06-07 23:12:06 INFO  statFile:170 - User Id :872158135548497921 Count of Messages Retrived:1
+2017-06-07 23:12:06 INFO  statFile:175 - End of Twitter Statistics in 11 sec : 
+
+2017-06-07 23:12:07 INFO  statFile:163 - Twitter response Statistics in 12 sec : 
+
+2017-06-07 23:12:07 INFO  statFile:170 - User Id :73710230 Count of Messages Retrived:1
+2017-06-07 23:12:07 INFO  statFile:170 - User Id :180112098 Count of Messages Retrived:1
+2017-06-07 23:12:07 INFO  statFile:170 - User Id :212375312 Count of Messages Retrived:1
+2017-06-07 23:12:07 INFO  statFile:170 - User Id :306388398 Count of Messages Retrived:1
+2017-06-07 23:12:07 INFO  statFile:170 - User Id :418087633 Count of Messages Retrived:1
+2017-06-07 23:12:07 INFO  statFile:170 - User Id :422258535 Count of Messages Retrived:1
+2017-06-07 23:12:07 INFO  statFile:170 - User Id :423647128 Count of Messages Retrived:1
+2017-06-07 23:12:07 INFO  statFile:170 - User Id :453365444 Count of Messages Retrived:1
+2017-06-07 23:12:07 INFO  statFile:170 - User Id :794323963 Count of Messages Retrived:1
+2017-06-07 23:12:07 INFO  statFile:170 - User Id :1004001216 Count of Messages Retrived:1
+2017-06-07 23:12:07 INFO  statFile:170 - User Id :1967026092 Count of Messages Retrived:1
+2017-06-07 23:12:07 INFO  statFile:170 - User Id :2426090648 Count of Messages Retrived:5
+2017-06-07 23:12:07 INFO  statFile:170 - User Id :2513165156 Count of Messages Retrived:1
+2017-06-07 23:12:07 INFO  statFile:170 - User Id :3458591554 Count of Messages Retrived:1
+2017-06-07 23:12:07 INFO  statFile:170 - User Id :4900146329 Count of Messages Retrived:1
+2017-06-07 23:12:07 INFO  statFile:170 - User Id :782560840989962240 Count of Messages Retrived:2
+2017-06-07 23:12:07 INFO  statFile:170 - User Id :845483840206364672 Count of Messages Retrived:1
+2017-06-07 23:12:07 INFO  statFile:170 - User Id :872158135548497921 Count of Messages Retrived:1
+2017-06-07 23:12:07 INFO  statFile:175 - End of Twitter Statistics in 12 sec : 
+
+2017-06-07 23:12:08 INFO  statFile:163 - Twitter response Statistics in 13 sec : 
+
+2017-06-07 23:12:08 INFO  statFile:170 - User Id :73710230 Count of Messages Retrived:1
+2017-06-07 23:12:08 INFO  statFile:170 - User Id :180112098 Count of Messages Retrived:1
+2017-06-07 23:12:08 INFO  statFile:170 - User Id :212375312 Count of Messages Retrived:1
+2017-06-07 23:12:08 INFO  statFile:170 - User Id :262198036 Count of Messages Retrived:1
+2017-06-07 23:12:08 INFO  statFile:170 - User Id :306388398 Count of Messages Retrived:1
+2017-06-07 23:12:08 INFO  statFile:170 - User Id :418087633 Count of Messages Retrived:1
+2017-06-07 23:12:08 INFO  statFile:170 - User Id :422258535 Count of Messages Retrived:1
+2017-06-07 23:12:08 INFO  statFile:170 - User Id :423647128 Count of Messages Retrived:1
+2017-06-07 23:12:08 INFO  statFile:170 - User Id :453365444 Count of Messages Retrived:1
+2017-06-07 23:12:08 INFO  statFile:170 - User Id :794323963 Count of Messages Retrived:1
+2017-06-07 23:12:08 INFO  statFile:170 - User Id :1004001216 Count of Messages Retrived:1
+2017-06-07 23:12:08 INFO  statFile:170 - User Id :1967026092 Count of Messages Retrived:1
+2017-06-07 23:12:08 INFO  statFile:170 - User Id :2426090648 Count of Messages Retrived:6
+2017-06-07 23:12:08 INFO  statFile:170 - User Id :2513165156 Count of Messages Retrived:2
+2017-06-07 23:12:08 INFO  statFile:170 - User Id :3458591554 Count of Messages Retrived:1
+2017-06-07 23:12:08 INFO  statFile:170 - User Id :4900146329 Count of Messages Retrived:1
+2017-06-07 23:12:08 INFO  statFile:170 - User Id :782560840989962240 Count of Messages Retrived:2
+2017-06-07 23:12:08 INFO  statFile:170 - User Id :845483840206364672 Count of Messages Retrived:1
+2017-06-07 23:12:08 INFO  statFile:170 - User Id :872158135548497921 Count of Messages Retrived:1
+2017-06-07 23:12:08 INFO  statFile:175 - End of Twitter Statistics in 13 sec : 
+
+2017-06-07 23:12:09 INFO  statFile:163 - Twitter response Statistics in 14 sec : 
+
+2017-06-07 23:12:09 INFO  statFile:170 - User Id :73710230 Count of Messages Retrived:1
+2017-06-07 23:12:09 INFO  statFile:170 - User Id :180112098 Count of Messages Retrived:1
+2017-06-07 23:12:09 INFO  statFile:170 - User Id :212375312 Count of Messages Retrived:1
+2017-06-07 23:12:09 INFO  statFile:170 - User Id :262198036 Count of Messages Retrived:1
+2017-06-07 23:12:09 INFO  statFile:170 - User Id :306388398 Count of Messages Retrived:1
+2017-06-07 23:12:09 INFO  statFile:170 - User Id :418087633 Count of Messages Retrived:1
+2017-06-07 23:12:09 INFO  statFile:170 - User Id :422258535 Count of Messages Retrived:1
+2017-06-07 23:12:09 INFO  statFile:170 - User Id :423647128 Count of Messages Retrived:1
+2017-06-07 23:12:09 INFO  statFile:170 - User Id :453365444 Count of Messages Retrived:1
+2017-06-07 23:12:09 INFO  statFile:170 - User Id :542681407 Count of Messages Retrived:1
+2017-06-07 23:12:09 INFO  statFile:170 - User Id :794323963 Count of Messages Retrived:1
+2017-06-07 23:12:09 INFO  statFile:170 - User Id :1004001216 Count of Messages Retrived:1
+2017-06-07 23:12:09 INFO  statFile:170 - User Id :1967026092 Count of Messages Retrived:1
+2017-06-07 23:12:09 INFO  statFile:170 - User Id :2426090648 Count of Messages Retrived:6
+2017-06-07 23:12:09 INFO  statFile:170 - User Id :2513165156 Count of Messages Retrived:2
+2017-06-07 23:12:09 INFO  statFile:170 - User Id :3458591554 Count of Messages Retrived:1
+2017-06-07 23:12:09 INFO  statFile:170 - User Id :4900146329 Count of Messages Retrived:1
+2017-06-07 23:12:09 INFO  statFile:170 - User Id :721291174514946048 Count of Messages Retrived:1
+2017-06-07 23:12:09 INFO  statFile:170 - User Id :782560840989962240 Count of Messages Retrived:2
+2017-06-07 23:12:09 INFO  statFile:170 - User Id :845483840206364672 Count of Messages Retrived:1
+2017-06-07 23:12:09 INFO  statFile:170 - User Id :872158135548497921 Count of Messages Retrived:1
+2017-06-07 23:12:09 INFO  statFile:175 - End of Twitter Statistics in 14 sec : 
+
+2017-06-07 23:12:10 INFO  statFile:163 - Twitter response Statistics in 15 sec : 
+
+2017-06-07 23:12:10 INFO  statFile:170 - User Id :73710230 Count of Messages Retrived:1
+2017-06-07 23:12:10 INFO  statFile:170 - User Id :180112098 Count of Messages Retrived:1
+2017-06-07 23:12:10 INFO  statFile:170 - User Id :212375312 Count of Messages Retrived:1
+2017-06-07 23:12:10 INFO  statFile:170 - User Id :262198036 Count of Messages Retrived:1
+2017-06-07 23:12:10 INFO  statFile:170 - User Id :306388398 Count of Messages Retrived:1
+2017-06-07 23:12:10 INFO  statFile:170 - User Id :418087633 Count of Messages Retrived:1
+2017-06-07 23:12:10 INFO  statFile:170 - User Id :422258535 Count of Messages Retrived:1
+2017-06-07 23:12:10 INFO  statFile:170 - User Id :423647128 Count of Messages Retrived:1
+2017-06-07 23:12:10 INFO  statFile:170 - User Id :453365444 Count of Messages Retrived:1
+2017-06-07 23:12:10 INFO  statFile:170 - User Id :542681407 Count of Messages Retrived:1
+2017-06-07 23:12:10 INFO  statFile:170 - User Id :794323963 Count of Messages Retrived:1
+2017-06-07 23:12:10 INFO  statFile:170 - User Id :1004001216 Count of Messages Retrived:1
+2017-06-07 23:12:10 INFO  statFile:170 - User Id :1967026092 Count of Messages Retrived:1
+2017-06-07 23:12:10 INFO  statFile:170 - User Id :2426090648 Count of Messages Retrived:6
+2017-06-07 23:12:10 INFO  statFile:170 - User Id :2513165156 Count of Messages Retrived:2
+2017-06-07 23:12:10 INFO  statFile:170 - User Id :3458591554 Count of Messages Retrived:1
+2017-06-07 23:12:10 INFO  statFile:170 - User Id :4557779477 Count of Messages Retrived:1
+2017-06-07 23:12:10 INFO  statFile:170 - User Id :4900146329 Count of Messages Retrived:1
+2017-06-07 23:12:10 INFO  statFile:170 - User Id :721291174514946048 Count of Messages Retrived:1
+2017-06-07 23:12:10 INFO  statFile:170 - User Id :782560840989962240 Count of Messages Retrived:2
+2017-06-07 23:12:10 INFO  statFile:170 - User Id :845483840206364672 Count of Messages Retrived:1
+2017-06-07 23:12:10 INFO  statFile:170 - User Id :872158135548497921 Count of Messages Retrived:1
+2017-06-07 23:12:10 INFO  statFile:175 - End of Twitter Statistics in 15 sec : 
+
+2017-06-07 23:12:11 INFO  statFile:163 - Twitter response Statistics in 16 sec : 
+
+2017-06-07 23:12:11 INFO  statFile:170 - User Id :73710230 Count of Messages Retrived:1
+2017-06-07 23:12:11 INFO  statFile:170 - User Id :180112098 Count of Messages Retrived:1
+2017-06-07 23:12:11 INFO  statFile:170 - User Id :192136407 Count of Messages Retrived:1
+2017-06-07 23:12:11 INFO  statFile:170 - User Id :212375312 Count of Messages Retrived:1
+2017-06-07 23:12:11 INFO  statFile:170 - User Id :262198036 Count of Messages Retrived:1
+2017-06-07 23:12:11 INFO  statFile:170 - User Id :306388398 Count of Messages Retrived:1
+2017-06-07 23:12:11 INFO  statFile:170 - User Id :418087633 Count of Messages Retrived:1
+2017-06-07 23:12:11 INFO  statFile:170 - User Id :422258535 Count of Messages Retrived:1
+2017-06-07 23:12:11 INFO  statFile:170 - User Id :423647128 Count of Messages Retrived:1
+2017-06-07 23:12:11 INFO  statFile:170 - User Id :453365444 Count of Messages Retrived:1
+2017-06-07 23:12:11 INFO  statFile:170 - User Id :542681407 Count of Messages Retrived:1
+2017-06-07 23:12:11 INFO  statFile:170 - User Id :794323963 Count of Messages Retrived:1
+2017-06-07 23:12:11 INFO  statFile:170 - User Id :1004001216 Count of Messages Retrived:1
+2017-06-07 23:12:11 INFO  statFile:170 - User Id :1624160184 Count of Messages Retrived:1
+2017-06-07 23:12:11 INFO  statFile:170 - User Id :1967026092 Count of Messages Retrived:1
+2017-06-07 23:12:11 INFO  statFile:170 - User Id :2273288983 Count of Messages Retrived:1
+2017-06-07 23:12:11 INFO  statFile:170 - User Id :2426090648 Count of Messages Retrived:6
+2017-06-07 23:12:11 INFO  statFile:170 - User Id :2513165156 Count of Messages Retrived:3
+2017-06-07 23:12:11 INFO  statFile:170 - User Id :2980046826 Count of Messages Retrived:1
+2017-06-07 23:12:11 INFO  statFile:170 - User Id :3431645170 Count of Messages Retrived:1
+2017-06-07 23:12:11 INFO  statFile:170 - User Id :3458591554 Count of Messages Retrived:1
+2017-06-07 23:12:11 INFO  statFile:170 - User Id :4557779477 Count of Messages Retrived:1
+2017-06-07 23:12:11 INFO  statFile:170 - User Id :4900146329 Count of Messages Retrived:1
+2017-06-07 23:12:11 INFO  statFile:170 - User Id :721291174514946048 Count of Messages Retrived:1
+2017-06-07 23:12:11 INFO  statFile:170 - User Id :782560840989962240 Count of Messages Retrived:3
+2017-06-07 23:12:11 INFO  statFile:170 - User Id :845483840206364672 Count of Messages Retrived:1
+2017-06-07 23:12:11 INFO  statFile:170 - User Id :872158135548497921 Count of Messages Retrived:1
+2017-06-07 23:12:11 INFO  statFile:175 - End of Twitter Statistics in 16 sec : 
+
+2017-06-07 23:12:12 INFO  statFile:163 - Twitter response Statistics in 17 sec : 
+
+2017-06-07 23:12:12 INFO  statFile:170 - User Id :73710230 Count of Messages Retrived:1
+2017-06-07 23:12:12 INFO  statFile:170 - User Id :180112098 Count of Messages Retrived:1
+2017-06-07 23:12:12 INFO  statFile:170 - User Id :192136407 Count of Messages Retrived:1
+2017-06-07 23:12:12 INFO  statFile:170 - User Id :212375312 Count of Messages Retrived:1
+2017-06-07 23:12:12 INFO  statFile:170 - User Id :262198036 Count of Messages Retrived:1
+2017-06-07 23:12:12 INFO  statFile:170 - User Id :306388398 Count of Messages Retrived:1
+2017-06-07 23:12:12 INFO  statFile:170 - User Id :418087633 Count of Messages Retrived:1
+2017-06-07 23:12:12 INFO  statFile:170 - User Id :422258535 Count of Messages Retrived:1
+2017-06-07 23:12:12 INFO  statFile:170 - User Id :423647128 Count of Messages Retrived:1
+2017-06-07 23:12:12 INFO  statFile:170 - User Id :453365444 Count of Messages Retrived:1
+2017-06-07 23:12:12 INFO  statFile:170 - User Id :542681407 Count of Messages Retrived:1
+2017-06-07 23:12:12 INFO  statFile:170 - User Id :794323963 Count of Messages Retrived:1
+2017-06-07 23:12:12 INFO  statFile:170 - User Id :1004001216 Count of Messages Retrived:1
+2017-06-07 23:12:12 INFO  statFile:170 - User Id :1624160184 Count of Messages Retrived:1
+2017-06-07 23:12:12 INFO  statFile:170 - User Id :1967026092 Count of Messages Retrived:1
+2017-06-07 23:12:12 INFO  statFile:170 - User Id :2273288983 Count of Messages Retrived:1
+2017-06-07 23:12:12 INFO  statFile:170 - User Id :2391843452 Count of Messages Retrived:1
+2017-06-07 23:12:12 INFO  statFile:170 - User Id :2426090648 Count of Messages Retrived:6
+2017-06-07 23:12:12 INFO  statFile:170 - User Id :2513165156 Count of Messages Retrived:3
+2017-06-07 23:12:12 INFO  statFile:170 - User Id :2866503637 Count of Messages Retrived:1
+2017-06-07 23:12:12 INFO  statFile:170 - User Id :2980046826 Count of Messages Retrived:1
+2017-06-07 23:12:12 INFO  statFile:170 - User Id :3398771409 Count of Messages Retrived:1
+2017-06-07 23:12:12 INFO  statFile:170 - User Id :3431645170 Count of Messages Retrived:1
+2017-06-07 23:12:12 INFO  statFile:170 - User Id :3458591554 Count of Messages Retrived:1
+2017-06-07 23:12:12 INFO  statFile:170 - User Id :4557779477 Count of Messages Retrived:1
+2017-06-07 23:12:12 INFO  statFile:170 - User Id :4900146329 Count of Messages Retrived:1
+2017-06-07 23:12:12 INFO  statFile:170 - User Id :721291174514946048 Count of Messages Retrived:1
+2017-06-07 23:12:12 INFO  statFile:170 - User Id :782560840989962240 Count of Messages Retrived:3
+2017-06-07 23:12:12 INFO  statFile:170 - User Id :845483840206364672 Count of Messages Retrived:1
+2017-06-07 23:12:12 INFO  statFile:170 - User Id :872158135548497921 Count of Messages Retrived:1
+2017-06-07 23:12:12 INFO  statFile:175 - End of Twitter Statistics in 17 sec : 
+
+2017-06-07 23:12:13 INFO  statFile:163 - Twitter response Statistics in 18 sec : 
+
+2017-06-07 23:12:13 INFO  statFile:170 - User Id :73710230 Count of Messages Retrived:1
+2017-06-07 23:12:13 INFO  statFile:170 - User Id :180112098 Count of Messages Retrived:1
+2017-06-07 23:12:13 INFO  statFile:170 - User Id :192136407 Count of Messages Retrived:1
+2017-06-07 23:12:13 INFO  statFile:170 - User Id :212375312 Count of Messages Retrived:1
+2017-06-07 23:12:13 INFO  statFile:170 - User Id :262198036 Count of Messages Retrived:1
+2017-06-07 23:12:13 INFO  statFile:170 - User Id :306388398 Count of Messages Retrived:1
+2017-06-07 23:12:13 INFO  statFile:170 - User Id :418087633 Count of Messages Retrived:1
+2017-06-07 23:12:13 INFO  statFile:170 - User Id :422258535 Count of Messages Retrived:1
+2017-06-07 23:12:13 INFO  statFile:170 - User Id :423647128 Count of Messages Retrived:1
+2017-06-07 23:12:13 INFO  statFile:170 - User Id :453365444 Count of Messages Retrived:1
+2017-06-07 23:12:13 INFO  statFile:170 - User Id :542681407 Count of Messages Retrived:1
+2017-06-07 23:12:13 INFO  statFile:170 - User Id :636241267 Count of Messages Retrived:1
+2017-06-07 23:12:13 INFO  statFile:170 - User Id :794323963 Count of Messages Retrived:1
+2017-06-07 23:12:13 INFO  statFile:170 - User Id :1004001216 Count of Messages Retrived:1
+2017-06-07 23:12:13 INFO  statFile:170 - User Id :1624160184 Count of Messages Retrived:1
+2017-06-07 23:12:13 INFO  statFile:170 - User Id :1967026092 Count of Messages Retrived:1
+2017-06-07 23:12:13 INFO  statFile:170 - User Id :2273288983 Count of Messages Retrived:1
+2017-06-07 23:12:13 INFO  statFile:170 - User Id :2391843452 Count of Messages Retrived:1
+2017-06-07 23:12:13 INFO  statFile:170 - User Id :2426090648 Count of Messages Retrived:6
+2017-06-07 23:12:13 INFO  statFile:170 - User Id :2513165156 Count of Messages Retrived:3
+2017-06-07 23:12:13 INFO  statFile:170 - User Id :2866503637 Count of Messages Retrived:1
+2017-06-07 23:12:13 INFO  statFile:170 - User Id :2980046826 Count of Messages Retrived:1
+2017-06-07 23:12:13 INFO  statFile:170 - User Id :3398771409 Count of Messages Retrived:1
+2017-06-07 23:12:13 INFO  statFile:170 - User Id :3431645170 Count of Messages Retrived:1
+2017-06-07 23:12:13 INFO  statFile:170 - User Id :3458591554 Count of Messages Retrived:1
+2017-06-07 23:12:13 INFO  statFile:170 - User Id :4557779477 Count of Messages Retrived:1
+2017-06-07 23:12:13 INFO  statFile:170 - User Id :4900146329 Count of Messages Retrived:1
+2017-06-07 23:12:13 INFO  statFile:170 - User Id :721291174514946048 Count of Messages Retrived:1
+2017-06-07 23:12:13 INFO  statFile:170 - User Id :782560840989962240 Count of Messages Retrived:3
+2017-06-07 23:12:13 INFO  statFile:170 - User Id :845483840206364672 Count of Messages Retrived:1
+2017-06-07 23:12:13 INFO  statFile:170 - User Id :872158135548497921 Count of Messages Retrived:1
+2017-06-07 23:12:13 INFO  statFile:175 - End of Twitter Statistics in 18 sec : 
+
+2017-06-07 23:12:14 INFO  statFile:163 - Twitter response Statistics in 19 sec : 
+
+2017-06-07 23:12:14 INFO  statFile:170 - User Id :73710230 Count of Messages Retrived:1
+2017-06-07 23:12:14 INFO  statFile:170 - User Id :158722400 Count of Messages Retrived:1
+2017-06-07 23:12:14 INFO  statFile:170 - User Id :180112098 Count of Messages Retrived:1
+2017-06-07 23:12:14 INFO  statFile:170 - User Id :192136407 Count of Messages Retrived:1
+2017-06-07 23:12:14 INFO  statFile:170 - User Id :212375312 Count of Messages Retrived:1
+2017-06-07 23:12:14 INFO  statFile:170 - User Id :262198036 Count of Messages Retrived:1
+2017-06-07 23:12:14 INFO  statFile:170 - User Id :306388398 Count of Messages Retrived:1
+2017-06-07 23:12:14 INFO  statFile:170 - User Id :418087633 Count of Messages Retrived:1
+2017-06-07 23:12:14 INFO  statFile:170 - User Id :422258535 Count of Messages Retrived:1
+2017-06-07 23:12:14 INFO  statFile:170 - User Id :423647128 Count of Messages Retrived:1
+2017-06-07 23:12:14 INFO  statFile:170 - User Id :453365444 Count of Messages Retrived:1
+2017-06-07 23:12:14 INFO  statFile:170 - User Id :542681407 Count of Messages Retrived:1
+2017-06-07 23:12:14 INFO  statFile:170 - User Id :636241267 Count of Messages Retrived:1
+2017-06-07 23:12:14 INFO  statFile:170 - User Id :794323963 Count of Messages Retrived:1
+2017-06-07 23:12:14 INFO  statFile:170 - User Id :1004001216 Count of Messages Retrived:1
+2017-06-07 23:12:14 INFO  statFile:170 - User Id :1624160184 Count of Messages Retrived:1
+2017-06-07 23:12:14 INFO  statFile:170 - User Id :1967026092 Count of Messages Retrived:1
+2017-06-07 23:12:14 INFO  statFile:170 - User Id :2273288983 Count of Messages Retrived:1
+2017-06-07 23:12:14 INFO  statFile:170 - User Id :2391843452 Count of Messages Retrived:1
+2017-06-07 23:12:14 INFO  statFile:170 - User Id :2426090648 Count of Messages Retrived:6
+2017-06-07 23:12:14 INFO  statFile:170 - User Id :2513165156 Count of Messages Retrived:3
+2017-06-07 23:12:14 INFO  statFile:170 - User Id :2866503637 Count of Messages Retrived:1
+2017-06-07 23:12:14 INFO  statFile:170 - User Id :2980046826 Count of Messages Retrived:1
+2017-06-07 23:12:14 INFO  statFile:170 - User Id :3398771409 Count of Messages Retrived:1
+2017-06-07 23:12:14 INFO  statFile:170 - User Id :3431645170 Count of Messages Retrived:1
+2017-06-07 23:12:14 INFO  statFile:170 - User Id :3458591554 Count of Messages Retrived:1
+2017-06-07 23:12:14 INFO  statFile:170 - User Id :4557779477 Count of Messages Retrived:1
+2017-06-07 23:12:14 INFO  statFile:170 - User Id :4900146329 Count of Messages Retrived:1
+2017-06-07 23:12:14 INFO  statFile:170 - User Id :721291174514946048 Count of Messages Retrived:1
+2017-06-07 23:12:14 INFO  statFile:170 - User Id :782560840989962240 Count of Messages Retrived:3
+2017-06-07 23:12:14 INFO  statFile:170 - User Id :845483840206364672 Count of Messages Retrived:1
+2017-06-07 23:12:14 INFO  statFile:170 - User Id :872158135548497921 Count of Messages Retrived:1
+2017-06-07 23:12:14 INFO  statFile:175 - End of Twitter Statistics in 19 sec : 
+
+2017-06-07 23:12:15 INFO  statFile:163 - Twitter response Statistics in 20 sec : 
+
+2017-06-07 23:12:15 INFO  statFile:170 - User Id :73710230 Count of Messages Retrived:1
+2017-06-07 23:12:15 INFO  statFile:170 - User Id :158722400 Count of Messages Retrived:1
+2017-06-07 23:12:15 INFO  statFile:170 - User Id :180112098 Count of Messages Retrived:1
+2017-06-07 23:12:15 INFO  statFile:170 - User Id :192136407 Count of Messages Retrived:1
+2017-06-07 23:12:15 INFO  statFile:170 - User Id :212375312 Count of Messages Retrived:1
+2017-06-07 23:12:15 INFO  statFile:170 - User Id :262198036 Count of Messages Retrived:1
+2017-06-07 23:12:15 INFO  statFile:170 - User Id :306388398 Count of Messages Retrived:1
+2017-06-07 23:12:15 INFO  statFile:170 - User Id :418087633 Count of Messages Retrived:1
+2017-06-07 23:12:15 INFO  statFile:170 - User Id :422258535 Count of Messages Retrived:1
+2017-06-07 23:12:15 INFO  statFile:170 - User Id :423647128 Count of Messages Retrived:1
+2017-06-07 23:12:15 INFO  statFile:170 - User Id :453365444 Count of Messages Retrived:1
+2017-06-07 23:12:15 INFO  statFile:170 - User Id :542681407 Count of Messages Retrived:1
+2017-06-07 23:12:15 INFO  statFile:170 - User Id :636241267 Count of Messages Retrived:1
+2017-06-07 23:12:15 INFO  statFile:170 - User Id :794323963 Count of Messages Retrived:1
+2017-06-07 23:12:15 INFO  statFile:170 - User Id :1004001216 Count of Messages Retrived:1
+2017-06-07 23:12:15 INFO  statFile:170 - User Id :1624160184 Count of Messages Retrived:1
+2017-06-07 23:12:15 INFO  statFile:170 - User Id :1967026092 Count of Messages Retrived:1
+2017-06-07 23:12:15 INFO  statFile:170 - User Id :2273288983 Count of Messages Retrived:1
+2017-06-07 23:12:15 INFO  statFile:170 - User Id :2391843452 Count of Messages Retrived:1
+2017-06-07 23:12:15 INFO  statFile:170 - User Id :2426090648 Count of Messages Retrived:6
+2017-06-07 23:12:15 INFO  statFile:170 - User Id :2513165156 Count of Messages Retrived:3
+2017-06-07 23:12:15 INFO  statFile:170 - User Id :2866503637 Count of Messages Retrived:1
+2017-06-07 23:12:15 INFO  statFile:170 - User Id :2980046826 Count of Messages Retrived:1
+2017-06-07 23:12:15 INFO  statFile:170 - User Id :3398771409 Count of Messages Retrived:1
+2017-06-07 23:12:15 INFO  statFile:170 - User Id :3431645170 Count of Messages Retrived:1
+2017-06-07 23:12:15 INFO  statFile:170 - User Id :3458591554 Count of Messages Retrived:1
+2017-06-07 23:12:15 INFO  statFile:170 - User Id :4557779477 Count of Messages Retrived:1
+2017-06-07 23:12:15 INFO  statFile:170 - User Id :4595115142 Count of Messages Retrived:1
+2017-06-07 23:12:15 INFO  statFile:170 - User Id :4900146329 Count of Messages Retrived:1
+2017-06-07 23:12:15 INFO  statFile:170 - User Id :721291174514946048 Count of Messages Retrived:1
+2017-06-07 23:12:15 INFO  statFile:170 - User Id :782560840989962240 Count of Messages Retrived:3
+2017-06-07 23:12:15 INFO  statFile:170 - User Id :845483840206364672 Count of Messages Retrived:1
+2017-06-07 23:12:15 INFO  statFile:170 - User Id :868196241624182785 Count of Messages Retrived:1
+2017-06-07 23:12:15 INFO  statFile:170 - User Id :872158135548497921 Count of Messages Retrived:1
+2017-06-07 23:12:15 INFO  statFile:175 - End of Twitter Statistics in 20 sec : 
+
+2017-06-07 23:12:16 INFO  statFile:163 - Twitter response Statistics in 21 sec : 
+
+2017-06-07 23:12:16 INFO  statFile:170 - User Id :73710230 Count of Messages Retrived:1
+2017-06-07 23:12:16 INFO  statFile:170 - User Id :158722400 Count of Messages Retrived:1
+2017-06-07 23:12:16 INFO  statFile:170 - User Id :180112098 Count of Messages Retrived:1
+2017-06-07 23:12:16 INFO  statFile:170 - User Id :192136407 Count of Messages Retrived:1
+2017-06-07 23:12:16 INFO  statFile:170 - User Id :212375312 Count of Messages Retrived:1
+2017-06-07 23:12:16 INFO  statFile:170 - User Id :262198036 Count of Messages Retrived:1
+2017-06-07 23:12:16 INFO  statFile:170 - User Id :306388398 Count of Messages Retrived:1
+2017-06-07 23:12:16 INFO  statFile:170 - User Id :418087633 Count of Messages Retrived:1
+2017-06-07 23:12:16 INFO  statFile:170 - User Id :422258535 Count of Messages Retrived:1
+2017-06-07 23:12:16 INFO  statFile:170 - User Id :423647128 Count of Messages Retrived:1
+2017-06-07 23:12:16 INFO  statFile:170 - User Id :453365444 Count of Messages Retrived:1
+2017-06-07 23:12:16 INFO  statFile:170 - User Id :542681407 Count of Messages Retrived:1
+2017-06-07 23:12:16 INFO  statFile:170 - User Id :636241267 Count of Messages Retrived:1
+2017-06-07 23:12:16 INFO  statFile:170 - User Id :794323963 Count of Messages Retrived:1
+2017-06-07 23:12:16 INFO  statFile:170 - User Id :1004001216 Count of Messages Retrived:1
+2017-06-07 23:12:16 INFO  statFile:170 - User Id :1624160184 Count of Messages Retrived:1
+2017-06-07 23:12:16 INFO  statFile:170 - User Id :1967026092 Count of Messages Retrived:1
+2017-06-07 23:12:16 INFO  statFile:170 - User Id :2273288983 Count of Messages Retrived:1
+2017-06-07 23:12:16 INFO  statFile:170 - User Id :2391843452 Count of Messages Retrived:1
+2017-06-07 23:12:16 INFO  statFile:170 - User Id :2426090648 Count of Messages Retrived:6
+2017-06-07 23:12:16 INFO  statFile:170 - User Id :2513165156 Count of Messages Retrived:4
+2017-06-07 23:12:16 INFO  statFile:170 - User Id :2866503637 Count of Messages Retrived:1
+2017-06-07 23:12:16 INFO  statFile:170 - User Id :2980046826 Count of Messages Retrived:1
+2017-06-07 23:12:16 INFO  statFile:170 - User Id :3398771409 Count of Messages Retrived:1
+2017-06-07 23:12:16 INFO  statFile:170 - User Id :3431645170 Count of Messages Retrived:1
+2017-06-07 23:12:16 INFO  statFile:170 - User Id :3458591554 Count of Messages Retrived:1
+2017-06-07 23:12:16 INFO  statFile:170 - User Id :4557779477 Count of Messages Retrived:1
+2017-06-07 23:12:16 INFO  statFile:170 - User Id :4595115142 Count of Messages Retrived:1
+2017-06-07 23:12:16 INFO  statFile:170 - User Id :4900146329 Count of Messages Retrived:1
+2017-06-07 23:12:16 INFO  statFile:170 - User Id :721291174514946048 Count of Messages Retrived:1
+2017-06-07 23:12:16 INFO  statFile:170 - User Id :782560840989962240 Count of Messages Retrived:4
+2017-06-07 23:12:16 INFO  statFile:170 - User Id :845483840206364672 Count of Messages Retrived:1
+2017-06-07 23:12:16 INFO  statFile:170 - User Id :868196241624182785 Count of Messages Retrived:1
+2017-06-07 23:12:16 INFO  statFile:170 - User Id :872158135548497921 Count of Messages Retrived:1
+2017-06-07 23:12:16 INFO  statFile:175 - End of Twitter Statistics in 21 sec : 
+
+2017-06-07 23:12:17 INFO  statFile:163 - Twitter response Statistics in 22 sec : 
+
+2017-06-07 23:12:17 INFO  statFile:170 - User Id :73710230 Count of Messages Retrived:1
+2017-06-07 23:12:17 INFO  statFile:170 - User Id :158722400 Count of Messages Retrived:1
+2017-06-07 23:12:17 INFO  statFile:170 - User Id :180112098 Count of Messages Retrived:1
+2017-06-07 23:12:17 INFO  statFile:170 - User Id :192136407 Count of Messages Retrived:1
+2017-06-07 23:12:17 INFO  statFile:170 - User Id :212375312 Count of Messages Retrived:1
+2017-06-07 23:12:17 INFO  statFile:170 - User Id :262198036 Count of Messages Retrived:1
+2017-06-07 23:12:17 INFO  statFile:170 - User Id :306388398 Count of Messages Retrived:1
+2017-06-07 23:12:17 INFO  statFile:170 - User Id :418087633 Count of Messages Retrived:1
+2017-06-07 23:12:17 INFO  statFile:170 - User Id :422258535 Count of Messages Retrived:1
+2017-06-07 23:12:17 INFO  statFile:170 - User Id :423647128 Count of Messages Retrived:1
+2017-06-07 23:12:17 INFO  statFile:170 - User Id :453365444 Count of Messages Retrived:1
+2017-06-07 23:12:17 INFO  statFile:170 - User Id :542681407 Count of Messages Retrived:1
+2017-06-07 23:12:17 INFO  statFile:170 - User Id :636241267 Count of Messages Retrived:1
+2017-06-07 23:12:17 INFO  statFile:170 - User Id :794323963 Count of Messages Retrived:1
+2017-06-07 23:12:17 INFO  statFile:170 - User Id :1004001216 Count of Messages Retrived:1
+2017-06-07 23:12:17 INFO  statFile:170 - User Id :1624160184 Count of Messages Retrived:1
+2017-06-07 23:12:17 INFO  statFile:170 - User Id :1967026092 Count of Messages Retrived:1
+2017-06-07 23:12:17 INFO  statFile:170 - User Id :2273288983 Count of Messages Retrived:1
+2017-06-07 23:12:17 INFO  statFile:170 - User Id :2391843452 Count of Messages Retrived:1
+2017-06-07 23:12:17 INFO  statFile:170 - User Id :2426090648 Count of Messages Retrived:6
+2017-06-07 23:12:17 INFO  statFile:170 - User Id :2513165156 Count of Messages Retrived:4
+2017-06-07 23:12:17 INFO  statFile:170 - User Id :2866503637 Count of Messages Retrived:1
+2017-06-07 23:12:17 INFO  statFile:170 - User Id :2980046826 Count of Messages Retrived:1
+2017-06-07 23:12:17 INFO  statFile:170 - User Id :3398771409 Count of Messages Retrived:1
+2017-06-07 23:12:17 INFO  statFile:170 - User Id :3431645170 Count of Messages Retrived:1
+2017-06-07 23:12:17 INFO  statFile:170 - User Id :3458591554 Count of Messages Retrived:1
+2017-06-07 23:12:17 INFO  statFile:170 - User Id :4557779477 Count of Messages Retrived:1
+2017-06-07 23:12:17 INFO  statFile:170 - User Id :4595115142 Count of Messages Retrived:1
+2017-06-07 23:12:17 INFO  statFile:170 - User Id :4900146329 Count of Messages Retrived:1
+2017-06-07 23:12:17 INFO  statFile:170 - User Id :721291174514946048 Count of Messages Retrived:1
+2017-06-07 23:12:17 INFO  statFile:170 - User Id :782560840989962240 Count of Messages Retrived:4
+2017-06-07 23:12:17 INFO  statFile:170 - User Id :845483840206364672 Count of Messages Retrived:1
+2017-06-07 23:12:17 INFO  statFile:170 - User Id :868196241624182785 Count of Messages Retrived:1
+2017-06-07 23:12:17 INFO  statFile:170 - User Id :872158135548497921 Count of Messages Retrived:1
+2017-06-07 23:12:17 INFO  statFile:175 - End of Twitter Statistics in 22 sec : 
+
+2017-06-07 23:12:18 INFO  statFile:163 - Twitter response Statistics in 23 sec : 
+
+2017-06-07 23:12:18 INFO  statFile:170 - User Id :73710230 Count of Messages Retrived:1
+2017-06-07 23:12:18 INFO  statFile:170 - User Id :158722400 Count of Messages Retrived:1
+2017-06-07 23:12:18 INFO  statFile:170 - User Id :180112098 Count of Messages Retrived:1
+2017-06-07 23:12:18 INFO  statFile:170 - User Id :192136407 Count of Messages Retrived:1
+2017-06-07 23:12:18 INFO  statFile:170 - User Id :212375312 Count of Messages Retrived:1
+2017-06-07 23:12:18 INFO  statFile:170 - User Id :262198036 Count of Messages Retrived:1
+2017-06-07 23:12:18 INFO  statFile:170 - User Id :306388398 Count of Messages Retrived:1
+2017-06-07 23:12:18 INFO  statFile:170 - User Id :414391612 Count of Messages Retrived:1
+2017-06-07 23:12:18 INFO  statFile:170 - User Id :418087633 Count of Messages Retrived:1
+2017-06-07 23:12:18 INFO  statFile:170 - User Id :422258535 Count of Messages Retrived:1
+2017-06-07 23:12:18 INFO  statFile:170 - User Id :423647128 Count of Messages Retrived:1
+2017-06-07 23:12:18 INFO  statFile:170 - User Id :453365444 Count of Messages Retrived:1
+2017-06-07 23:12:18 INFO  statFile:170 - User Id :542681407 Count of Messages Retrived:1
+2017-06-07 23:12:18 INFO  statFile:170 - User Id :596787206 Count of Messages Retrived:1
+2017-06-07 23:12:18 INFO  statFile:170 - User Id :636241267 Count of Messages Retrived:1
+2017-06-07 23:12:18 INFO  statFile:170 - User Id :794323963 Count of Messages Retrived:1
+2017-06-07 23:12:18 INFO  statFile:170 - User Id :1004001216 Count of Messages Retrived:1
+2017-06-07 23:12:18 INFO  statFile:170 - User Id :1624160184 Count of Messages Retrived:1
+2017-06-07 23:12:18 INFO  statFile:170 - User Id :1967026092 Count of Messages Retrived:1
+2017-06-07 23:12:18 INFO  statFile:170 - User Id :2273288983 Count of Messages Retrived:1
+2017-06-07 23:12:18 INFO  statFile:170 - User Id :2391843452 Count of Messages Retrived:1
+2017-06-07 23:12:18 INFO  statFile:170 - User Id :2426090648 Count of Messages Retrived:6
+2017-06-07 23:12:18 INFO  statFile:170 - User Id :2513165156 Count of Messages Retrived:4
+2017-06-07 23:12:18 INFO  statFile:170 - User Id :2866503637 Count of Messages Retrived:1
+2017-06-07 23:12:18 INFO  statFile:170 - User Id :2980046826 Count of Messages Retrived:1
+2017-06-07 23:12:18 INFO  statFile:170 - User Id :3398771409 Count of Messages Retrived:1
+2017-06-07 23:12:18 INFO  statFile:170 - User Id :3431645170 Count of Messages Retrived:1
+2017-06-07 23:12:18 INFO  statFile:170 - User Id :3458591554 Count of Messages Retrived:1
+2017-06-07 23:12:18 INFO  statFile:170 - User Id :4557779477 Count of Messages Retrived:1
+2017-06-07 23:12:18 INFO  statFile:170 - User Id :4595115142 Count of Messages Retrived:1
+2017-06-07 23:12:18 INFO  statFile:170 - User Id :4900146329 Count of Messages Retrived:1
+2017-06-07 23:12:18 INFO  statFile:170 - User Id :721291174514946048 Count of Messages Retrived:1
+2017-06-07 23:12:18 INFO  statFile:170 - User Id :782560840989962240 Count of Messages Retrived:4
+2017-06-07 23:12:18 INFO  statFile:170 - User Id :820610873060249600 Count of Messages Retrived:1
+2017-06-07 23:12:18 INFO  statFile:170 - User Id :845483840206364672 Count of Messages Retrived:1
+2017-06-07 23:12:18 INFO  statFile:170 - User Id :868196241624182785 Count of Messages Retrived:1
+2017-06-07 23:12:18 INFO  statFile:170 - User Id :872158135548497921 Count of Messages Retrived:1
+2017-06-07 23:12:18 INFO  statFile:175 - End of Twitter Statistics in 23 sec : 
+
+2017-06-07 23:12:19 INFO  statFile:163 - Twitter response Statistics in 24 sec : 
+
+2017-06-07 23:12:19 INFO  statFile:170 - User Id :73710230 Count of Messages Retrived:1
+2017-06-07 23:12:19 INFO  statFile:170 - User Id :158722400 Count of Messages Retrived:1
+2017-06-07 23:12:19 INFO  statFile:170 - User Id :180112098 Count of Messages Retrived:1
+2017-06-07 23:12:19 INFO  statFile:170 - User Id :192136407 Count of Messages Retrived:1
+2017-06-07 23:12:19 INFO  statFile:170 - User Id :209092760 Count of Messages Retrived:1
+2017-06-07 23:12:19 INFO  statFile:170 - User Id :212375312 Count of Messages Retrived:1
+2017-06-07 23:12:19 INFO  statFile:170 - User Id :262198036 Count of Messages Retrived:2
+2017-06-07 23:12:19 INFO  statFile:170 - User Id :306388398 Count of Messages Retrived:1
+2017-06-07 23:12:19 INFO  statFile:170 - User Id :414391612 Count of Messages Retrived:1
+2017-06-07 23:12:19 INFO  statFile:170 - User Id :418087633 Count of Messages Retrived:1
+2017-06-07 23:12:19 INFO  statFile:170 - User Id :422258535 Count of Messages Retrived:1
+2017-06-07 23:12:19 INFO  statFile:170 - User Id :423647128 Count of Messages Retrived:1
+2017-06-07 23:12:19 INFO  statFile:170 - User Id :453365444 Count of Messages Retrived:1
+2017-06-07 23:12:19 INFO  statFile:170 - User Id :542681407 Count of Messages Retrived:1
+2017-06-07 23:12:19 INFO  statFile:170 - User Id :580269423 Count of Messages Retrived:1
+2017-06-07 23:12:19 INFO  statFile:170 - User Id :596787206 Count of Messages Retrived:1
+2017-06-07 23:12:19 INFO  statFile:170 - User Id :636241267 Count of Messages Retrived:1
+2017-06-07 23:12:19 INFO  statFile:170 - User Id :794323963 Count of Messages Retrived:1
+2017-06-07 23:12:19 INFO  statFile:170 - User Id :1004001216 Count of Messages Retrived:1
+2017-06-07 23:12:19 INFO  statFile:170 - User Id :1081628394 Count of Messages Retrived:1
+2017-06-07 23:12:19 INFO  statFile:170 - User Id :1624160184 Count of Messages Retrived:1
+2017-06-07 23:12:19 INFO  statFile:170 - User Id :1967026092 Count of Messages Retrived:1
+2017-06-07 23:12:19 INFO  statFile:170 - User Id :2273288983 Count of Messages Retrived:1
+2017-06-07 23:12:19 INFO  statFile:170 - User Id :2391843452 Count of Messages Retrived:1
+2017-06-07 23:12:19 INFO  statFile:170 - User Id :2426090648 Count of Messages Retrived:6
+2017-06-07 23:12:19 INFO  statFile:170 - User Id :2513165156 Count of Messages Retrived:4
+2017-06-07 23:12:19 INFO  statFile:170 - User Id :2866503637 Count of Messages Retrived:1
+2017-06-07 23:12:19 INFO  statFile:170 - User Id :2980046826 Count of Messages Retrived:1
+2017-06-07 23:12:19 INFO  statFile:170 - User Id :3398771409 Count of Messages Retrived:1
+2017-06-07 23:12:19 INFO  statFile:170 - User Id :3431645170 Count of Messages Retrived:1
+2017-06-07 23:12:19 INFO  statFile:170 - User Id :3458591554 Count of Messages Retrived:1
+2017-06-07 23:12:19 INFO  statFile:170 - User Id :4557779477 Count of Messages Retrived:1
+2017-06-07 23:12:19 INFO  statFile:170 - User Id :4595115142 Count of Messages Retrived:1
+2017-06-07 23:12:19 INFO  statFile:170 - User Id :4900146329 Count of Messages Retrived:1
+2017-06-07 23:12:19 INFO  statFile:170 - User Id :721291174514946048 Count of Messages Retrived:1
+2017-06-07 23:12:19 INFO  statFile:170 - User Id :782560840989962240 Count of Messages Retrived:4
+2017-06-07 23:12:19 INFO  statFile:170 - User Id :820610873060249600 Count of Messages Retrived:1
+2017-06-07 23:12:19 INFO  statFile:170 - User Id :845483840206364672 Count of Messages Retrived:1
+2017-06-07 23:12:19 INFO  statFile:170 - User Id :868196241624182785 Count of Messages Retrived:1
+2017-06-07 23:12:19 INFO  statFile:170 - User Id :872158135548497921 Count of Messages Retrived:1
+2017-06-07 23:12:19 INFO  statFile:175 - End of Twitter Statistics in 24 sec : 
+
+2017-06-07 23:12:20 INFO  statFile:163 - Twitter response Statistics in 25 sec : 
+
+2017-06-07 23:12:20 INFO  statFile:170 - User Id :73710230 Count of Messages Retrived:1
+2017-06-07 23:12:20 INFO  statFile:170 - User Id :158722400 Count of Messages Retrived:1
+2017-06-07 23:12:20 INFO  statFile:170 - User Id :180112098 Count of Messages Retrived:1
+2017-06-07 23:12:20 INFO  statFile:170 - User Id :192136407 Count of Messages Retrived:1
+2017-06-07 23:12:20 INFO  statFile:170 - User Id :209092760 Count of Messages Retrived:1
+2017-06-07 23:12:20 INFO  statFile:170 - User Id :212375312 Count of Messages Retrived:1
+2017-06-07 23:12:20 INFO  statFile:170 - User Id :262198036 Count of Messages Retrived:2
+2017-06-07 23:12:20 INFO  statFile:170 - User Id :306388398 Count of Messages Retrived:1
+2017-06-07 23:12:20 INFO  statFile:170 - User Id :364439922 Count of Messages Retrived:1
+2017-06-07 23:12:20 INFO  statFile:170 - User Id :414391612 Count of Messages Retrived:1
+2017-06-07 23:12:20 INFO  statFile:170 - User Id :418087633 Count of Messages Retrived:1
+2017-06-07 23:12:20 INFO  statFile:170 - User Id :422258535 Count of Messages Retrived:1
+2017-06-07 23:12:20 INFO  statFile:170 - User Id :423647128 Count of Messages Retrived:1
+2017-06-07 23:12:20 INFO  statFile:170 - User Id :453365444 Count of Messages Retrived:1
+2017-06-07 23:12:20 INFO  statFile:170 - User Id :542681407 Count of Messages Retrived:1
+2017-06-07 23:12:20 INFO  statFile:170 - User Id :580269423 Count of Messages Retrived:1
+2017-06-07 23:12:20 INFO  statFile:170 - User Id :596787206 Count of Messages Retrived:1
+2017-06-07 23:12:20 INFO  statFile:170 - User Id :636241267 Count of Messages Retrived:1
+2017-06-07 23:12:20 INFO  statFile:170 - User Id :794323963 Count of Messages Retrived:1
+2017-06-07 23:12:20 INFO  statFile:170 - User Id :1004001216 Count of Messages Retrived:1
+2017-06-07 23:12:20 INFO  statFile:170 - User Id :1081628394 Count of Messages Retrived:1
+2017-06-07 23:12:20 INFO  statFile:170 - User Id :1624160184 Count of Messages Retrived:1
+2017-06-07 23:12:20 INFO  statFile:170 - User Id :1967026092 Count of Messages Retrived:1
+2017-06-07 23:12:20 INFO  statFile:170 - User Id :2273288983 Count of Messages Retrived:1
+2017-06-07 23:12:20 INFO  statFile:170 - User Id :2391843452 Count of Messages Retrived:1
+2017-06-07 23:12:20 INFO  statFile:170 - User Id :2426090648 Count of Messages Retrived:6
+2017-06-07 23:12:20 INFO  statFile:170 - User Id :2513165156 Count of Messages Retrived:4
+2017-06-07 23:12:20 INFO  statFile:170 - User Id :2866503637 Count of Messages Retrived:1
+2017-06-07 23:12:20 INFO  statFile:170 - User Id :2980046826 Count of Messages Retrived:1
+2017-06-07 23:12:20 INFO  statFile:170 - User Id :3398771409 Count of Messages Retrived:1
+2017-06-07 23:12:20 INFO  statFile:170 - User Id :3431645170 Count of Messages Retrived:1
+2017-06-07 23:12:20 INFO  statFile:170 - User Id :3458591554 Count of Messages Retrived:1
+2017-06-07 23:12:20 INFO  statFile:170 - User Id :4557779477 Count of Messages Retrived:1
+2017-06-07 23:12:20 INFO  statFile:170 - User Id :4595115142 Count of Messages Retrived:1
+2017-06-07 23:12:20 INFO  statFile:170 - User Id :4900146329 Count of Messages Retrived:1
+2017-06-07 23:12:20 INFO  statFile:170 - User Id :721291174514946048 Count of Messages Retrived:1
+2017-06-07 23:12:20 INFO  statFile:170 - User Id :782560840989962240 Count of Messages Retrived:4
+2017-06-07 23:12:20 INFO  statFile:170 - User Id :820610873060249600 Count of Messages Retrived:1
+2017-06-07 23:12:20 INFO  statFile:170 - User Id :845483840206364672 Count of Messages Retrived:1
+2017-06-07 23:12:20 INFO  statFile:170 - User Id :868196241624182785 Count of Messages Retrived:1
+2017-06-07 23:12:20 INFO  statFile:170 - User Id :872158135548497921 Count of Messages Retrived:1
+2017-06-07 23:12:20 INFO  statFile:175 - End of Twitter Statistics in 25 sec : 
+
+2017-06-07 23:12:21 INFO  statFile:163 - Twitter response Statistics in 26 sec : 
+
+2017-06-07 23:12:21 INFO  statFile:170 - User Id :73710230 Count of Messages Retrived:1
+2017-06-07 23:12:21 INFO  statFile:170 - User Id :158722400 Count of Messages Retrived:1
+2017-06-07 23:12:21 INFO  statFile:170 - User Id :180112098 Count of Messages Retrived:1
+2017-06-07 23:12:21 INFO  statFile:170 - User Id :192136407 Count of Messages Retrived:1
+2017-06-07 23:12:21 INFO  statFile:170 - User Id :209092760 Count of Messages Retrived:1
+2017-06-07 23:12:21 INFO  statFile:170 - User Id :212375312 Count of Messages Retrived:1
+2017-06-07 23:12:21 INFO  statFile:170 - User Id :262198036 Count of Messages Retrived:2
+2017-06-07 23:12:21 INFO  statFile:170 - User Id :306388398 Count of Messages Retrived:1
+2017-06-07 23:12:21 INFO  statFile:170 - User Id :364439922 Count of Messages Retrived:1
+2017-06-07 23:12:21 INFO  statFile:170 - User Id :414391612 Count of Messages Retrived:1
+2017-06-07 23:12:21 INFO  statFile:170 - User Id :418087633 Count of Messages Retrived:1
+2017-06-07 23:12:21 INFO  statFile:170 - User Id :422258535 Count of Messages Retrived:1
+2017-06-07 23:12:21 INFO  statFile:170 - User Id :423647128 Count of Messages Retrived:1
+2017-06-07 23:12:21 INFO  statFile:170 - User Id :453365444 Count of Messages Retrived:1
+2017-06-07 23:12:21 INFO  statFile:170 - User Id :542681407 Count of Messages Retrived:1
+2017-06-07 23:12:21 INFO  statFile:170 - User Id :580269423 Count of Messages Retrived:1
+2017-06-07 23:12:21 INFO  statFile:170 - User Id :596787206 Count of Messages Retrived:1
+2017-06-07 23:12:21 INFO  statFile:170 - User Id :636241267 Count of Messages Retrived:1
+2017-06-07 23:12:21 INFO  statFile:170 - User Id :794323963 Count of Messages Retrived:1
+2017-06-07 23:12:21 INFO  statFile:170 - User Id :1004001216 Count of Messages Retrived:1
+2017-06-07 23:12:21 INFO  statFile:170 - User Id :1081628394 Count of Messages Retrived:1
+2017-06-07 23:12:21 INFO  statFile:170 - User Id :1624160184 Count of Messages Retrived:1
+2017-06-07 23:12:21 INFO  statFile:170 - User Id :1967026092 Count of Messages Retrived:1
+2017-06-07 23:12:21 INFO  statFile:170 - User Id :2273288983 Count of Messages Retrived:1
+2017-06-07 23:12:21 INFO  statFile:170 - User Id :2391843452 Count of Messages Retrived:1
+2017-06-07 23:12:21 INFO  statFile:170 - User Id :2426090648 Count of Messages Retrived:6
+2017-06-07 23:12:21 INFO  statFile:170 - User Id :2513165156 Count of Messages Retrived:5
+2017-06-07 23:12:21 INFO  statFile:170 - User Id :2866503637 Count of Messages Retrived:1
+2017-06-07 23:12:21 INFO  statFile:170 - User Id :2980046826 Count of Messages Retrived:1
+2017-06-07 23:12:21 INFO  statFile:170 - User Id :2993108859 Count of Messages Retrived:1
+2017-06-07 23:12:21 INFO  statFile:170 - User Id :3398771409 Count of Messages Retrived:1
+2017-06-07 23:12:21 INFO  statFile:170 - User Id :3431645170 Count of Messages Retrived:1
+2017-06-07 23:12:21 INFO  statFile:170 - User Id :3458591554 Count of Messages Retrived:1
+2017-06-07 23:12:21 INFO  statFile:170 - User Id :4557779477 Count of Messages Retrived:1
+2017-06-07 23:12:21 INFO  statFile:170 - User Id :4595115142 Count of Messages Retrived:1
+2017-06-07 23:12:21 INFO  statFile:170 - User Id :4900146329 Count of Messages Retrived:1
+2017-06-07 23:12:21 INFO  statFile:170 - User Id :721291174514946048 Count of Messages Retrived:1
+2017-06-07 23:12:21 INFO  statFile:170 - User Id :748568678032117760 Count of Messages Retrived:1
+2017-06-07 23:12:21 INFO  statFile:170 - User Id :782560840989962240 Count of Messages Retrived:4
+2017-06-07 23:12:21 INFO  statFile:170 - User Id :820610873060249600 Count of Messages Retrived:1
+2017-06-07 23:12:21 INFO  statFile:170 - User Id :845483840206364672 Count of Messages Retrived:1
+2017-06-07 23:12:21 INFO  statFile:170 - User Id :868196241624182785 Count of Messages Retrived:2
+2017-06-07 23:12:21 INFO  statFile:170 - User Id :872158135548497921 Count of Messages Retrived:1
+2017-06-07 23:12:21 INFO  statFile:175 - End of Twitter Statistics in 26 sec : 
+
+2017-06-07 23:12:22 INFO  statFile:163 - Twitter response Statistics in 27 sec : 
+
+2017-06-07 23:12:22 INFO  statFile:170 - User Id :73710230 Count of Messages Retrived:1
+2017-06-07 23:12:22 INFO  statFile:170 - User Id :158722400 Count of Messages Retrived:1
+2017-06-07 23:12:22 INFO  statFile:170 - User Id :180112098 Count of Messages Retrived:1
+2017-06-07 23:12:22 INFO  statFile:170 - User Id :192136407 Count of Messages Retrived:1
+2017-06-07 23:12:22 INFO  statFile:170 - User Id :209092760 Count of Messages Retrived:1
+2017-06-07 23:12:22 INFO  statFile:170 - User Id :212375312 Count of Messages Retrived:1
+2017-06-07 23:12:22 INFO  statFile:170 - User Id :262198036 Count of Messages Retrived:2
+2017-06-07 23:12:22 INFO  statFile:170 - User Id :306388398 Count of Messages Retrived:1
+2017-06-07 23:12:22 INFO  statFile:170 - User Id :364439922 Count of Messages Retrived:1
+2017-06-07 23:12:22 INFO  statFile:170 - User Id :414391612 Count of Messages Retrived:1
+2017-06-07 23:12:22 INFO  statFile:170 - User Id :418087633 Count of Messages Retrived:1
+2017-06-07 23:12:22 INFO  statFile:170 - User Id :422258535 Count of Messages Retrived:1
+2017-06-07 23:12:22 INFO  statFile:170 - User Id :423647128 Count of Messages Retrived:1
+2017-06-07 23:12:22 INFO  statFile:170 - User Id :426184307 Count of Messages Retrived:1
+2017-06-07 23:12:22 INFO  statFile:170 - User Id :453365444 Count of Messages Retrived:1
+2017-06-07 23:12:22 INFO  statFile:170 - User Id :542681407 Count of Messages Retrived:1
+2017-06-07 23:12:22 INFO  statFile:170 - User Id :580269423 Count of Messages Retrived:1
+2017-06-07 23:12:22 INFO  statFile:170 - User Id :596787206 Count of Messages Retrived:1
+2017-06-07 23:12:22 INFO  statFile:170 - User Id :636241267 Count of Messages Retrived:1
+2017-06-07 23:12:22 INFO  statFile:170 - User Id :794323963 Count of Messages Retrived:1
+2017-06-07 23:12:22 INFO  statFile:170 - User Id :1004001216 Count of Messages Retrived:1
+2017-06-07 23:12:22 INFO  statFile:170 - User Id :1081628394 Count of Messages Retrived:1
+2017-06-07 23:12:22 INFO  statFile:170 - User Id :1239313056 Count of Messages Retrived:1
+2017-06-07 23:12:22 INFO  statFile:170 - User Id :1624160184 Count of Messages Retrived:1
+2017-06-07 23:12:22 INFO  statFile:170 - User Id :1967026092 Count of Messages Retrived:1
+2017-06-07 23:12:22 INFO  statFile:170 - User Id :2234708540 Count of Messages Retrived:1
+2017-06-07 23:12:22 INFO  statFile:170 - User Id :2273288983 Count of Messages Retrived:1
+2017-06-07 23:12:22 INFO  statFile:170 - User Id :2391843452 Count of Messages Retrived:1
+2017-06-07 23:12:22 INFO  statFile:170 - User Id :2426090648 Count of Messages Retrived:6
+2017-06-07 23:12:22 INFO  statFile:170 - User Id :2513165156 Count of Messages Retrived:5
+2017-06-07 23:12:22 INFO  statFile:170 - User Id :2866503637 Count of Messages Retrived:1
+2017-06-07 23:12:22 INFO  statFile:170 - User Id :2980046826 Count of Messages Retrived:1
+2017-06-07 23:12:22 INFO  statFile:170 - User Id :2993108859 Count of Messages Retrived:1
+2017-06-07 23:12:22 INFO  statFile:170 - User Id :3398771409 Count of Messages Retrived:1
+2017-06-07 23:12:22 INFO  statFile:170 - User Id :3431645170 Count of Messages Retrived:1
+2017-06-07 23:12:22 INFO  statFile:170 - User Id :3458591554 Count of Messages Retrived:1
+2017-06-07 23:12:22 INFO  statFile:170 - User Id :4557779477 Count of Messages Retrived:1
+2017-06-07 23:12:22 INFO  statFile:170 - User Id :4595115142 Count of Messages Retrived:1
+2017-06-07 23:12:22 INFO  statFile:170 - User Id :4900146329 Count of Messages Retrived:1
+2017-06-07 23:12:22 INFO  statFile:170 - User Id :721291174514946048 Count of Messages Retrived:1
+2017-06-07 23:12:22 INFO  statFile:170 - User Id :748568678032117760 Count of Messages Retrived:1
+2017-06-07 23:12:22 INFO  statFile:170 - User Id :782560840989962240 Count of Messages Retrived:4
+2017-06-07 23:12:22 INFO  statFile:170 - User Id :820610873060249600 Count of Messages Retrived:1
+2017-06-07 23:12:22 INFO  statFile:170 - User Id :845483840206364672 Count of Messages Retrived:1
+2017-06-07 23:12:22 INFO  statFile:170 - User Id :868196241624182785 Count of Messages Retrived:2
+2017-06-07 23:12:22 INFO  statFile:170 - User Id :872158135548497921 Count of Messages Retrived:1
+2017-06-07 23:12:22 INFO  statFile:175 - End of Twitter Statistics in 27 sec : 
+
+2017-06-07 23:12:23 INFO  statFile:163 - Twitter response Statistics in 28 sec : 
+
+2017-06-07 23:12:23 INFO  statFile:170 - User Id :73710230 Count of Messages Retrived:1
+2017-06-07 23:12:23 INFO  statFile:170 - User Id :158722400 Count of Messages Retrived:1
+2017-06-07 23:12:23 INFO  statFile:170 - User Id :180112098 Count of Messages Retrived:1
+2017-06-07 23:12:23 INFO  statFile:170 - User Id :192136407 Count of Messages Retrived:1
+2017-06-07 23:12:23 INFO  statFile:170 - User Id :209092760 Count of Messages Retrived:1
+2017-06-07 23:12:23 INFO  statFile:170 - User Id :212375312 Count of Messages Retrived:1
+2017-06-07 23:12:23 INFO  statFile:170 - User Id :262198036 Count of Messages Retrived:2
+2017-06-07 23:12:23 INFO  statFile:170 - User Id :306388398 Count of Messages Retrived:1
+2017-06-07 23:12:23 INFO  statFile:170 - User Id :364439922 Count of Messages Retrived:1
+2017-06-07 23:12:23 INFO  statFile:170 - User Id :403501444 Count of Messages Retrived:1
+2017-06-07 23:12:23 INFO  statFile:170 - User Id :414391612 Count of Messages Retrived:1
+2017-06-07 23:12:23 INFO  statFile:170 - User Id :418087633 Count of Messages Retrived:1
+2017-06-07 23:12:23 INFO  statFile:170 - User Id :422258535 Count of Messages Retrived:1
+2017-06-07 23:12:23 INFO  statFile:170 - User Id :423647128 Count of Messages Retrived:1
+2017-06-07 23:12:23 INFO  statFile:170 - User Id :426184307 Count of Messages Retrived:1
+2017-06-07 23:12:23 INFO  statFile:170 - User Id :453365444 Count of Messages Retrived:1
+2017-06-07 23:12:23 INFO  statFile:170 - User Id :542681407 Count of Messages Retrived:1
+2017-06-07 23:12:23 INFO  statFile:170 - User Id :580269423 Count of Messages Retrived:1
+2017-06-07 23:12:23 INFO  statFile:170 - User Id :596787206 Count of Messages Retrived:1
+2017-06-07 23:12:23 INFO  statFile:170 - User Id :636241267 Count of Messages Retrived:1
+2017-06-07 23:12:23 INFO  statFile:170 - User Id :794323963 Count of Messages Retrived:1
+2017-06-07 23:12:23 INFO  statFile:170 - User Id :900259230 Count of Messages Retrived:1
+2017-06-07 23:12:23 INFO  statFile:170 - User Id :1004001216 Count of Messages Retrived:1
+2017-06-07 23:12:23 INFO  statFile:170 - User Id :1081628394 Count of Messages Retrived:1
+2017-06-07 23:12:23 INFO  statFile:170 - User Id :1239313056 Count of Messages Retrived:1
+2017-06-07 23:12:23 INFO  statFile:170 - User Id :1624160184 Count of Messages Retrived:1
+2017-06-07 23:12:23 INFO  statFile:170 - User Id :1967026092 Count of Messages Retrived:1
+2017-06-07 23:12:23 INFO  statFile:170 - User Id :2234708540 Count of Messages Retrived:1
+2017-06-07 23:12:23 INFO  statFile:170 - User Id :2273288983 Count of Messages Retrived:1
+2017-06-07 23:12:23 INFO  statFile:170 - User Id :2391843452 Count of Messages Retrived:1
+2017-06-07 23:12:23 INFO  statFile:170 - User Id :2426090648 Count of Messages Retrived:6
+2017-06-07 23:12:23 INFO  statFile:170 - User Id :2513165156 Count of Messages Retrived:5
+2017-06-07 23:12:23 INFO  statFile:170 - User Id :2859397835 Count of Messages Retrived:1
+2017-06-07 23:12:23 INFO  statFile:170 - User Id :2866503637 Count of Messages Retrived:1
+2017-06-07 23:12:23 INFO  statFile:170 - User Id :2980046826 Count of Messages Retrived:1
+2017-06-07 23:12:23 INFO  statFile:170 - User Id :2993108859 Count of Messages Retrived:1
+2017-06-07 23:12:23 INFO  statFile:170 - User Id :3398771409 Count of Messages Retrived:1
+2017-06-07 23:12:23 INFO  statFile:170 - User Id :3431645170 Count of Messages Retrived:1
+2017-06-07 23:12:23 INFO  statFile:170 - User Id :3458591554 Count of Messages Retrived:1
+2017-06-07 23:12:23 INFO  statFile:170 - User Id :4557779477 Count of Messages Retrived:1
+2017-06-07 23:12:23 INFO  statFile:170 - User Id :4595115142 Count of Messages Retrived:1
+2017-06-07 23:12:23 INFO  statFile:170 - User Id :4900146329 Count of Messages Retrived:1
+2017-06-07 23:12:23 INFO  statFile:170 - User Id :721291174514946048 Count of Messages Retrived:1
+2017-06-07 23:12:23 INFO  statFile:170 - User Id :748568678032117760 Count of Messages Retrived:1
+2017-06-07 23:12:23 INFO  statFile:170 - User Id :782560840989962240 Count of Messages Retrived:4
+2017-06-07 23:12:23 INFO  statFile:170 - User Id :820610873060249600 Count of Messages Retrived:1
+2017-06-07 23:12:23 INFO  statFile:170 - User Id :845483840206364672 Count of Messages Retrived:1
+2017-06-07 23:12:23 INFO  statFile:170 - User Id :868196241624182785 Count of Messages Retrived:2
+2017-06-07 23:12:23 INFO  statFile:170 - User Id :872158135548497921 Count of Messages Retrived:1
+2017-06-07 23:12:23 INFO  statFile:175 - End of Twitter Statistics in 28 sec : 
+
+2017-06-07 23:12:24 INFO  statFile:163 - Twitter response Statistics in 29 sec : 
+
+2017-06-07 23:12:24 INFO  statFile:170 - User Id :73710230 Count of Messages Retrived:1
+2017-06-07 23:12:24 INFO  statFile:170 - User Id :158722400 Count of Messages Retrived:1
+2017-06-07 23:12:24 INFO  statFile:170 - User Id :180112098 Count of Messages Retrived:1
+2017-06-07 23:12:24 INFO  statFile:170 - User Id :192136407 Count of Messages Retrived:1
+2017-06-07 23:12:24 INFO  statFile:170 - User Id :209092760 Count of Messages Retrived:1
+2017-06-07 23:12:24 INFO  statFile:170 - User Id :212375312 Count of Messages Retrived:1
+2017-06-07 23:12:24 INFO  statFile:170 - User Id :262198036 Count of Messages Retrived:2
+2017-06-07 23:12:24 INFO  statFile:170 - User Id :306388398 Count of Messages Retrived:1
+2017-06-07 23:12:24 INFO  statFile:170 - User Id :364439922 Count of Messages Retrived:1
+2017-06-07 23:12:24 INFO  statFile:170 - User Id :403501444 Count of Messages Retrived:1
+2017-06-07 23:12:24 INFO  statFile:170 - User Id :414391612 Count of Messages Retrived:1
+2017-06-07 23:12:24 INFO  statFile:170 - User Id :418087633 Count of Messages Retrived:1
+2017-06-07 23:12:24 INFO  statFile:170 - User Id :422258535 Count of Messages Retrived:1
+2017-06-07 23:12:24 INFO  statFile:170 - User Id :423647128 Count of Messages Retrived:1
+2017-06-07 23:12:24 INFO  statFile:170 - User Id :426184307 Count of Messages Retrived:1
+2017-06-07 23:12:24 INFO  statFile:170 - User Id :453365444 Count of Messages Retrived:1
+2017-06-07 23:12:24 INFO  statFile:170 - User Id :542681407 Count of Messages Retrived:1
+2017-06-07 23:12:24 INFO  statFile:170 - User Id :580269423 Count of Messages Retrived:1
+2017-06-07 23:12:24 INFO  statFile:170 - User Id :596787206 Count of Messages Retrived:1
+2017-06-07 23:12:24 INFO  statFile:170 - User Id :636241267 Count of Messages Retrived:1
+2017-06-07 23:12:24 INFO  statFile:170 - User Id :794323963 Count of Messages Retrived:1
+2017-06-07 23:12:24 INFO  statFile:170 - User Id :900259230 Count of Messages Retrived:1
+2017-06-07 23:12:24 INFO  statFile:170 - User Id :1004001216 Count of Messages Retrived:1
+2017-06-07 23:12:24 INFO  statFile:170 - User Id :1081628394 Count of Messages Retrived:1
+2017-06-07 23:12:24 INFO  statFile:170 - User Id :1125693408 Count of Messages Retrived:1
+2017-06-07 23:12:24 INFO  statFile:170 - User Id :1239313056 Count of Messages Retrived:1
+2017-06-07 23:12:24 INFO  statFile:170 - User Id :1624160184 Count of Messages Retrived:1
+2017-06-07 23:12:24 INFO  statFile:170 - User Id :1967026092 Count of Messages Retrived:1
+2017-06-07 23:12:24 INFO  statFile:170 - User Id :2234708540 Count of Messages Retrived:1
+2017-06-07 23:12:24 INFO  statFile:170 - User Id :2273288983 Count of Messages Retrived:1
+2017-06-07 23:12:24 INFO  statFile:170 - User Id :2391843452 Count of Messages Retrived:1
+2017-06-07 23:12:24 INFO  statFile:170 - User Id :2426090648 Count of Messages Retrived:6
+2017-06-07 23:12:24 INFO  statFile:170 - User Id :2513165156 Count of Messages Retrived:5
+2017-06-07 23:12:24 INFO  statFile:170 - User Id :2831018350 Count of Messages Retrived:1
+2017-06-07 23:12:24 INFO  statFile:170 - User Id :2859397835 Count of Messages Retrived:1
+2017-06-07 23:12:24 INFO  statFile:170 - User Id :2866503637 Count of Messages Retrived:1
+2017-06-07 23:12:24 INFO  statFile:170 - User Id :2980046826 Count of Messages Retrived:1
+2017-06-07 23:12:24 INFO  statFile:170 - User Id :2993108859 Count of Messages Retrived:1
+2017-06-07 23:12:24 INFO  statFile:170 - User Id :3398771409 Count of Messages Retrived:1
+2017-06-07 23:12:24 INFO  statFile:170 - User Id :3431645170 Count of Messages Retrived:1
+2017-06-07 23:12:24 INFO  statFile:170 - User Id :3458591554 Count of Messages Retrived:1
+2017-06-07 23:12:24 INFO  statFile:170 - User Id :4557779477 Count of Messages Retrived:1
+2017-06-07 23:12:24 INFO  statFile:170 - User Id :4595115142 Count of Messages Retrived:1
+2017-06-07 23:12:24 INFO  statFile:170 - User Id :4900146329 Count of Messages Retrived:1
+2017-06-07 23:12:24 INFO  statFile:170 - User Id :721291174514946048 Count of Messages Retrived:1
+2017-06-07 23:12:24 INFO  statFile:170 - User Id :748568678032117760 Count of Messages Retrived:1
+2017-06-07 23:12:24 INFO  statFile:170 - User Id :748568965736071168 Count of Messages Retrived:1
+2017-06-07 23:12:24 INFO  statFile:170 - User Id :782560840989962240 Count of Messages Retrived:4
+2017-06-07 23:12:24 INFO  statFile:170 - User Id :820610873060249600 Count of Messages Retrived:2
+2017-06-07 23:12:24 INFO  statFile:170 - User Id :845483840206364672 Count of Messages Retrived:1
+2017-06-07 23:12:24 INFO  statFile:170 - User Id :868196241624182785 Count of Messages Retrived:2
+2017-06-07 23:12:24 INFO  statFile:170 - User Id :872158135548497921 Count of Messages Retrived:1
+2017-06-07 23:12:24 INFO  statFile:175 - End of Twitter Statistics in 29 sec : 
+
+2017-06-07 23:12:25 INFO  statFile:163 - Twitter response Statistics in 30 sec : 
+
+2017-06-07 23:12:25 INFO  statFile:170 - User Id :73710230 Count of Messages Retrived:1
+2017-06-07 23:12:25 INFO  statFile:170 - User Id :158722400 Count of Messages Retrived:1
+2017-06-07 23:12:25 INFO  statFile:170 - User Id :180112098 Count of Messages Retrived:1
+2017-06-07 23:12:25 INFO  statFile:170 - User Id :192136407 Count of Messages Retrived:1
+2017-06-07 23:12:25 INFO  statFile:170 - User Id :209092760 Count of Messages Retrived:1
+2017-06-07 23:12:25 INFO  statFile:170 - User Id :212375312 Count of Messages Retrived:1
+2017-06-07 23:12:25 INFO  statFile:170 - User Id :262198036 Count of Messages Retrived:2
+2017-06-07 23:12:25 INFO  statFile:170 - User Id :306388398 Count of Messages Retrived:1
+2017-06-07 23:12:25 INFO  statFile:170 - User Id :364439922 Count of Messages Retrived:1
+2017-06-07 23:12:25 INFO  statFile:170 - User Id :403501444 Count of Messages Retrived:1
+2017-06-07 23:12:25 INFO  statFile:170 - User Id :414391612 Count of Messages Retrived:1
+2017-06-07 23:12:25 INFO  statFile:170 - User Id :418087633 Count of Messages Retrived:1
+2017-06-07 23:12:25 INFO  statFile:170 - User Id :422258535 Count of Messages Retrived:1
+2017-06-07 23:12:25 INFO  statFile:170 - User Id :423647128 Count of Messages Retrived:1
+2017-06-07 23:12:25 INFO  statFile:170 - User Id :426184307 Count of Messages Retrived:1
+2017-06-07 23:12:25 INFO  statFile:170 - User Id :453365444 Count of Messages Retrived:1
+2017-06-07 23:12:25 INFO  statFile:170 - User Id :542681407 Count of Messages Retrived:1
+2017-06-07 23:12:25 INFO  statFile:170 - User Id :580269423 Count of Messages Retrived:1
+2017-06-07 23:12:25 INFO  statFile:170 - User Id :596787206 Count of Messages Retrived:1
+2017-06-07 23:12:25 INFO  statFile:170 - User Id :636241267 Count of Messages Retrived:1
+2017-06-07 23:12:25 INFO  statFile:170 - User Id :794323963 Count of Messages Retrived:1
+2017-06-07 23:12:25 INFO  statFile:170 - User Id :900259230 Count of Messages Retrived:1
+2017-06-07 23:12:25 INFO  statFile:170 - User Id :1004001216 Count of Messages Retrived:1
+2017-06-07 23:12:25 INFO  statFile:170 - User Id :1081628394 Count of Messages Retrived:1
+2017-06-07 23:12:25 INFO  statFile:170 - User Id :1125693408 Count of Messages Retrived:1
+2017-06-07 23:12:25 INFO  statFile:170 - User Id :1239313056 Count of Messages Retrived:1
+2017-06-07 23:12:25 INFO  statFile:170 - User Id :1428341545 Count of Messages Retrived:1
+2017-06-07 23:12:25 INFO  statFile:170 - User Id :1624160184 Count of Messages Retrived:1
+2017-06-07 23:12:25 INFO  statFile:170 - User Id :1967026092 Count of Messages Retrived:1
+2017-06-07 23:12:25 INFO  statFile:170 - User Id :2234708540 Count of Messages Retrived:1
+2017-06-07 23:12:25 INFO  statFile:170 - User Id :2273288983 Count of Messages Retrived:1
+2017-06-07 23:12:25 INFO  statFile:170 - User Id :2276417276 Count of Messages Retrived:1
+2017-06-07 23:12:25 INFO  statFile:170 - User Id :2391843452 Count of Messages Retrived:1
+2017-06-07 23:12:25 INFO  statFile:170 - User Id :2426090648 Count of Messages Retrived:6
+2017-06-07 23:12:25 INFO  statFile:170 - User Id :2513165156 Count of Messages Retrived:5
+2017-06-07 23:12:25 INFO  statFile:170 - User Id :2831018350 Count of Messages Retrived:1
+2017-06-07 23:12:25 INFO  statFile:170 - User Id :2859397835 Count of Messages Retrived:1
+2017-06-07 23:12:25 INFO  statFile:170 - User Id :2866503637 Count of Messages Retrived:1
+2017-06-07 23:12:25 INFO  statFile:170 - User Id :2980046826 Count of Messages Retrived:1
+2017-06-07 23:12:25 INFO  statFile:170 - User Id :2993108859 Count of Messages Retrived:1
+2017-06-07 23:12:25 INFO  statFile:170 - User Id :3398771409 Count of Messages Retrived:1
+2017-06-07 23:12:25 INFO  statFile:170 - User Id :3431645170 Count of Messages Retrived:1
+2017-06-07 23:12:25 INFO  statFile:170 - User Id :3458591554 Count of Messages Retrived:1
+2017-06-07 23:12:25 INFO  statFile:170 - User Id :4557779477 Count of Messages Retrived:1
+2017-06-07 23:12:25 INFO  statFile:170 - User Id :4595115142 Count of Messages Retrived:1
+2017-06-07 23:12:25 INFO  statFile:170 - User Id :4900146329 Count of Messages Retrived:1
+2017-06-07 23:12:25 INFO  statFile:170 - User Id :721291174514946048 Count of Messages Retrived:1
+2017-06-07 23:12:25 INFO  statFile:170 - User Id :748568678032117760 Count of Messages Retrived:1
+2017-06-07 23:12:25 INFO  statFile:170 - User Id :748568965736071168 Count of Messages Retrived:1
+2017-06-07 23:12:25 INFO  statFile:170 - User Id :782560840989962240 Count of Messages Retrived:4
+2017-06-07 23:12:25 INFO  statFile:170 - User Id :820610873060249600 Count of Messages Retrived:2
+2017-06-07 23:12:25 INFO  statFile:170 - User Id :845483840206364672 Count of Messages Retrived:1
+2017-06-07 23:12:25 INFO  statFile:170 - User Id :868196241624182785 Count of Messages Retrived:2
+2017-06-07 23:12:25 INFO  statFile:170 - User Id :872158135548497921 Count of Messages Retrived:1
+2017-06-07 23:12:25 INFO  statFile:175 - End of Twitter Statistics in 30 sec : 
+
+2017-06-07 23:12:26 INFO  statFile:163 - Twitter response Statistics in 31 sec : 
+
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :73710230 Count of Messages Retrived:1
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :158722400 Count of Messages Retrived:1
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :180112098 Count of Messages Retrived:1
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :192136407 Count of Messages Retrived:1
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :209092760 Count of Messages Retrived:1
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :212375312 Count of Messages Retrived:1
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :262198036 Count of Messages Retrived:2
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :306388398 Count of Messages Retrived:1
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :364439922 Count of Messages Retrived:1
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :403501444 Count of Messages Retrived:1
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :414391612 Count of Messages Retrived:1
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :418087633 Count of Messages Retrived:1
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :422258535 Count of Messages Retrived:1
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :423647128 Count of Messages Retrived:1
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :426184307 Count of Messages Retrived:1
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :440281806 Count of Messages Retrived:1
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :453365444 Count of Messages Retrived:1
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :542681407 Count of Messages Retrived:1
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :580269423 Count of Messages Retrived:1
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :596787206 Count of Messages Retrived:1
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :636241267 Count of Messages Retrived:1
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :794323963 Count of Messages Retrived:1
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :881965555 Count of Messages Retrived:1
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :900259230 Count of Messages Retrived:1
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :1004001216 Count of Messages Retrived:1
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :1081628394 Count of Messages Retrived:1
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :1125693408 Count of Messages Retrived:1
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :1239313056 Count of Messages Retrived:1
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :1428341545 Count of Messages Retrived:1
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :1624160184 Count of Messages Retrived:1
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :1967026092 Count of Messages Retrived:1
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :2234708540 Count of Messages Retrived:1
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :2273288983 Count of Messages Retrived:1
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :2276417276 Count of Messages Retrived:1
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :2391843452 Count of Messages Retrived:1
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :2426090648 Count of Messages Retrived:6
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :2513165156 Count of Messages Retrived:5
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :2831018350 Count of Messages Retrived:1
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :2859397835 Count of Messages Retrived:1
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :2866503637 Count of Messages Retrived:1
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :2980046826 Count of Messages Retrived:1
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :2993108859 Count of Messages Retrived:1
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :3398771409 Count of Messages Retrived:1
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :3431645170 Count of Messages Retrived:1
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :3458591554 Count of Messages Retrived:1
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :4557779477 Count of Messages Retrived:1
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :4595115142 Count of Messages Retrived:1
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :4900146329 Count of Messages Retrived:1
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :721291174514946048 Count of Messages Retrived:1
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :748568678032117760 Count of Messages Retrived:1
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :748568965736071168 Count of Messages Retrived:1
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :782560840989962240 Count of Messages Retrived:4
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :820610873060249600 Count of Messages Retrived:2
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :845483840206364672 Count of Messages Retrived:1
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :868196241624182785 Count of Messages Retrived:2
+2017-06-07 23:12:26 INFO  statFile:170 - User Id :872158135548497921 Count of Messages Retrived:1
+2017-06-07 23:12:26 INFO  statFile:175 - End of Twitter Statistics in 31 sec : 
+
